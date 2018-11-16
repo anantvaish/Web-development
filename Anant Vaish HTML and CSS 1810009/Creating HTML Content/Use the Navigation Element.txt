@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Nick Pettit</title>
+</head>
+<body>
+<header>
+<a href="index.html">
+<h1>Anant Vaish</h1>
+</a>
+<nav>
+<ul>
+<li><a href="index.html">Portfolio</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section>
+<p>Welcome to my page</p>
+</section>
+<footer>
+<p>Thank you for visiting</p>
+</footer>
+</body>
+</html>

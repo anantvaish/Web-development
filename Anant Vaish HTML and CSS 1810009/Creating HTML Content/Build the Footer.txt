@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Anant Vaish</title>
+</head>
+<body>
+<header>
+<a href="index.html">
+<h1>Anant Vaish</h1>
+</a>
+<nav>
+<ul>
+<li><a href="index.html">Portfolio</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section>
+<ul>
+<li>
+<a href="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\download.jpg">
+<img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\download.jpg" alt="">
+<p>Namaste</p>
+</a>
+</li>
+<li>
+<a href="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\70776212-farther-and-baby-vector-design.png">
+<img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\70776212-farther-and-baby-vector-design.png" alt="">
+<p>Parents</p>
+</a>
+</li>
+<li>
+<a href="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\depositphotos_51540067-stock-illustration-welding-cartoon.jpg">
+<img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\depositphotos_51540067-stock-illustration-welding-cartoon.jpg" alt="">
+<p>Welding</p>
+</a>
+</li>
+<li>
+<a href="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\edificio-escolar_23-2147521232.jpg">
+<img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\edificio-escolar_23-2147521232.jpg" alt="">
+<p>School</p>
+</a>
+</li>
+</ul>
+</section>
+<footer>
+<a href="http://twitter.com"><img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\twitter-wrap.png" alt="Twitter Logo"></a>
+<a href="http://facebook.com"><img src="E:\my folder\programming\Ashutosh Mishra videos\HTML and CSS\Creating HTML Content\New folder\facebook-wrap.png" alt="Facebook Logo"></a>
+<p>Thanks for visiting page</p>
+</footer>
+</body>
+</html>
